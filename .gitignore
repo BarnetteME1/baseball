@@ -1,0 +1,4 @@
+.envrc
+.direnv/
+baseball_csv_files/
+database.sqlite
